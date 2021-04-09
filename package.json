@@ -1,0 +1,35 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Back-End App Seed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://seedidiomas@bitbucket.org/seedidiomasdev/server.git"
+  },
+  "author": "Iago Nuvem",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/seedidiomasdev/server#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "aws-sdk": "^2.743.0",
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.2.0",
+    "fs": "0.0.1-security",
+    "googleapis": "^61.0.0",
+    "http": "0.0.0",
+    "mongodb": "^3.3.2",
+    "multer": "^1.4.2",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "socket.io": "^2.3.0",
+    "uuid": "^8.3.0"
+  }
+}

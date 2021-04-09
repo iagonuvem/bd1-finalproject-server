@@ -1,0 +1,36 @@
+{
+	"_id": "",
+	"sponte_id": "",
+	"unit": "UNIT_ID",
+	"teacher": "TEACHER_ID",
+	"coordinator": "COORDINATOR_ID",
+	"lessons" : ["LESSONS_ID"],
+	"observations":[
+		{
+			"created_at": "",
+			"created_by": "",
+			"description": ""
+		}
+	],
+	"issues": [
+		{
+			"description": "",
+			"created_at": "",
+			"created_by": "",
+			"chat": [
+				{
+					"sender": "",
+					"msg": ""
+				}
+			],
+			"solved": 0
+		}
+	],
+	"chat":[
+		{
+			"name" : "",
+			"msg" : "",
+			"createdAt" : ""
+		}
+	]
+}

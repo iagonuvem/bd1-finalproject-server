@@ -1,0 +1,9 @@
+{
+	"user_id": "",
+	"sponte_id": "",
+	"name": "",
+	"nickname": "",
+	"birthday": "0000-00-00",
+	"departament": "",
+	"classes": ["CLASS_ID"]
+}

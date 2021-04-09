@@ -1,0 +1,12 @@
+{
+	"_id" : "",
+	"user_id": "",
+	"name": "",
+	"relations": [
+		{
+			"name": "",
+			"student_id" : "",
+			"relation_type": ""
+		}
+	]
+}
